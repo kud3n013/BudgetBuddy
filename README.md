@@ -1,3 +1,5 @@
+forked from ramanv0/CapitalGuard
+this is mainly for a college project, not for commercial use by any mean.
 # CapitalGuard
 A full stack Android personal finance and wealth management app built in Android Studio with Java, XML, Firebase Authentication and Realtime Database, Stanford CoreNLP, AnyChart JavaScript library, Google Cloud Functions written in Node.js, and the Plaid, Dialogflow, News, and Twitter (via Twitter4J) APIs. CapitalGuard allows you to connect all of your financial accounts into one space to get a complete picture of your financial health, help you gain control of your spending, and track and optimize your investments.
 
